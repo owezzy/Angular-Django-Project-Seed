@@ -1,4 +1,4 @@
-# An Angular - Django Project Seed
+<img src="https://raw.githubusercontent.com/nirgn975/Angular-Django-Project-Seed/master/angular-django-project-seed.png" />
 
 [![license][license-image]][license-url] [![GitHub release][github-image]][github-url] [![Build Status][travis-image]][travis-url] [![codecov][codecov-image]][codecov-url] [![Dependency Status][dependencyci-image]][dependencyci-url] [![Codacy Badge][codacy-image]][codacy-url] [![Maintenance][maintenance-image]][maintenance-url] [![Donate][donate-image]][donate-url]
 
